@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+redis
+pynacl
+pydantic
+asyncpg
+dotenv
+pyjwt
+supabase
